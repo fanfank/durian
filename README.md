@@ -23,7 +23,7 @@ __请参见 *榴莲评论分享系统——说明文档.pdf* ，内有巨详细�
 __请参见 *榴莲评论分享系统——说明文档.pdf* ，内有巨详细的介绍~！__  
 
 + Git: fanfank
-+ Code author: 徐瑞琦，姜奕祺，萧浩源  
++ Code authors: 徐瑞琦，姜奕祺，萧浩源  
 + Contact email: reetsee.xu@gmail.com
 
 <div class = "footer">
