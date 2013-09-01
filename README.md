@@ -5,6 +5,9 @@ Durian
 你可以 __非商业目的__ 自由地下载/使用/修改源代码  
 __演示视频__：http://v.youku.com/v_show/id_XNDk3MTA2MjE2.html  
 
+===  
+![Frame](https://raw.github.com/fanfank/durian/master/screenshots/durian_mainframe.jpg)  
+
 ###作品介绍
 __请参见 *榴莲评论分享系统——说明文档.pdf* ，内有巨详细的介绍~！__  
 
