@@ -3,6 +3,8 @@ Durian
 
 评论与分享系统——榴莲  
 你可以 __非商业目的__ 自由地下载/使用/修改源代码  
+You are free to download/use/modify these codes for __non-commercial__ uses  
+
 __演示视频__：http://v.youku.com/v_show/id_XNDk3MTA2MjE2.html  
 
 ===   
